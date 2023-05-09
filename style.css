@@ -1,0 +1,15 @@
+.naf{
+    background-color: orange;
+
+
+}
+ul{
+    list-style-type: none;
+}
+a{
+}
+li{
+    display: inline;
+    float: left;
+    padding: 20px;
+}
